@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/programming/vs_SchoolProject/Robot_algorithm/cmake-build-debug",
+  "command": "C:\\CODEED~1\\W64DEV~1\\bin\\C__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\Robot_algorithm.dir\\src\\main.cpp.obj -c D:\\programming\\vs_SchoolProject\\Robot_algorithm\\src\\main.cpp",
+  "file": "D:\\programming\\vs_SchoolProject\\Robot_algorithm\\src\\main.cpp",
+  "output": "CMakeFiles\\Robot_algorithm.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "D:/programming/vs_SchoolProject/Robot_algorithm/cmake-build-debug",
+  "command": "C:\\CODEED~1\\W64DEV~1\\bin\\C__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\Robot_algorithm.dir\\src\\a.cpp.obj -c D:\\programming\\vs_SchoolProject\\Robot_algorithm\\src\\a.cpp",
+  "file": "D:\\programming\\vs_SchoolProject\\Robot_algorithm\\src\\a.cpp",
+  "output": "CMakeFiles\\Robot_algorithm.dir\\src\\a.cpp.obj"
+}
+]

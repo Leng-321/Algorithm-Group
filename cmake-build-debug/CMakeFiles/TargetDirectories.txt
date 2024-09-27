@@ -1,0 +1,3 @@
+D:/programming/vs_SchoolProject/Robot_algorithm/cmake-build-debug/CMakeFiles/Robot_algorithm.dir
+D:/programming/vs_SchoolProject/Robot_algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programming/vs_SchoolProject/Robot_algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

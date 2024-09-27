@@ -1,0 +1,10 @@
+# ninja log v6
+469	684	7491562562357348	Robot_algorithm.exe	5078214d54f5e262
+3	441	7491560866117550	CMakeFiles/Robot_algorithm.dir/a.cpp.obj	2917ba5f623fd007
+3	468	7491562557702519	CMakeFiles/Robot_algorithm.dir/main.cpp.obj	e7fa2ec9f6c7715d
+1	7	7491521368067056	clean	43bd010786e9b15a
+2	408	7491564345759356	CMakeFiles/Robot_algorithm.dir/src/main.cpp.obj	366ee8f66be458c8
+5	417	7491564345790667	CMakeFiles/Robot_algorithm.dir/src/a.cpp.obj	72c236d2f3d4b1a5
+417	586	7491564349907391	Robot_algorithm.exe	557f3de8f075d70b
+3	472	7491567244426090	CMakeFiles/Robot_algorithm.dir/src/main.cpp.obj	366ee8f66be458c8
+472	675	7491567249119724	Robot_algorithm.exe	557f3de8f075d70b
